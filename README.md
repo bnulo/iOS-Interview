@@ -4,8 +4,8 @@
 * Automatic Reference Counting (ARC), Retain Cycle, Memory Leak, Memory Leak in Closure (weak/unowned self)
 * Communication Patterns, delegate (1 to 1) vs notification (1 to many)
 * View Life Cycle: 
-1. Begin: viewDidLoad, viewWillAppear, viewWillLayoutSubviews, viewDidLayoutSubviews, viewDidAppear
-1. End: viewWillDisappear, viewDidDisappear
+  1. Begin: viewDidLoad, viewWillAppear, viewWillLayoutSubviews, viewDidLayoutSubviews, viewDidAppear
+  1. End: viewWillDisappear, viewDidDisappear
 * optional
 * ??
 * optional chaining
