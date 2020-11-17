@@ -24,3 +24,10 @@
 * Debugging, (force unwrapping the optionals, updating the ui on the main thread ... )
 * Modulo Operator
 * Take Home Projects
+* Architecture, MVC, MVVM, VIPER ...
+* Closure
+* @escaping, @nonescaping
+* lazy
+* Process, Threads, Task
+* Grand Central Dispatch (GCD), Operation
+* Codable & Decodable
